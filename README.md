@@ -40,6 +40,7 @@ Here are some ideas to get you started:
 
 ## いま取り組んでいること
 - 医療いらすと：医療向けフリー素材サイトの運営とフリーミアム化設計（ToB有料プラン準備）
+- ヘルスケアデザインシンキングの社会実装（バイオデザイン）
 - EEG × AI：てんかん等を念頭に置いた解析プロトタイプ（MNE-Python / PyTorch）
 - 医療広告コンプライアンス支援：生成AIによるチェックワークフローの設計
 - Goodpatch Anywhere：医療/産業領域のPM・UX、ワークショップ設計
@@ -55,7 +56,7 @@ Here are some ideas to get you started:
 
 ## スキルセット
 **Design / Product**
-- UXリサーチ、サービスデザイン、プロトタイピング（Figma）、デザインシステム運用
+- UXリサーチ、UXデザイン、サービスデザイン、プロトタイピング（Figma）やユーザーテスト等
 - PM/Agile、ロードマップ設計、要求定義、ワークショップ設計
 
 **Data / AI**
@@ -88,8 +89,7 @@ Here are some ideas to get you started:
 ## 連絡先 & Link
 - Company: **メディカルデザインラボ株式会社** — https://meddesignlab.co.jp/
 - Portfolio-ish（Wantedly）: https://www.wantedly.com/id/kitamura_tatsuya
-- X (Twitter): https://x.com/kitamura_med
-- Mail: info@meddesignlab.com （案件/コラボ相談）
+- X (Twitter): [https://x.com/kitamura_med](https://x.com/tatsuyakitamura)
 
 ---
 
