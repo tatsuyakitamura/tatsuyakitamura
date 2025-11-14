@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **tatsuyakitamura/tatsuyakitamura** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -17,16 +15,16 @@ Here are some ideas to get you started:
 
 <!-- 1. GitHub usernameを変更 -->
 <div align="right">
-  <img src="https://komarev.com/ghpvc/?username=username" />
+  <img src="https://komarev.com/ghpvc/?username=tatsuyakitamura" />
 </div>
 
 
 <!-- 2. プロフィールや連絡先を変更 -->
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> Hi there
 
-- 🧑‍💻 I'm a backend engineer.
+- 🧑‍💻 I'm a UX Designer.
 - 🌱 I’m currently learning go!
-- 📫 How to reach me: [Twitter - @username](https://twitter.com/username)
+- 📫 How to reach me: [X - @tatsuyakitamura](https://x.com/tatsuyakitamura)
 <br>
 
 
