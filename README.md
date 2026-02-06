@@ -89,7 +89,7 @@ Here are some ideas to get you started:
 ## 連絡先 & Link
 - Company: **メディカルデザインラボ株式会社** — https://meddesignlab.co.jp/
 - Portfolio-ish（Wantedly）: https://www.wantedly.com/id/kitamura_tatsuya
-- X (Twitter): [https://x.com/kitamura_med](https://x.com/tatsuyakitamura)
+- X (Twitter): [https://x.com/tatsuyakitamura](https://x.com/tatsuyakitamura)
 
 ---
 
